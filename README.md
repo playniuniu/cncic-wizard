@@ -1,18 +1,22 @@
-# cncic
+# CNCIC 网页配置向导
 
-> A Vue.js project
+### 运行
 
-## Build Setup
+```bash
+docker run -d -p 8000:80 --name cncic playniuniu/cncic-wizard
+```
 
-``` bash
-# install dependencies
+### 安装
+
+```
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 技术栈
+
+- [vue.js](https://vuejs.org/) 2.0
+- [element](http://element.eleme.io/) 1.0
