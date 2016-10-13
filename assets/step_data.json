@@ -1,0 +1,69 @@
+[
+    {
+        "name": "网站基础框架",
+        "options": [
+            { "key": "独立系统框架", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step1_1.md" },
+            { "key": "第三方框架", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step1_2.md" }
+        ]
+    },
+    {
+        "name": "站内搜索引擎",
+        "options": [
+            { "key": "独立搜索引擎", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step2_1.md" },
+            { "key": "第三方搜索引擎", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step2_2.md" }
+        ]
+    },
+    {
+        "name": "内容发布系统",
+        "options": [
+            { "key": "独立内容发布系统", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step3_1.md" },
+            { "key": "第三方内容发布系统", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step3_2.md" }
+        ]
+    },
+    {
+        "name": "网站会员体系",
+        "options": [
+            { "key": "邮箱注册", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step4_1.md" },
+            { "key": "手机号注册", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step4_2.md" },
+            { "key": "第三方登陆", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step4_3.md" }
+        ]
+    },
+    {
+        "name": "网站支付功能",
+        "options": [
+            { "key": "暂不接入", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step5_1.md" },
+            { "key": "国内支付", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step5_2.md" },
+            { "key": "国际支付", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step5_3.md" }
+        ]
+    },
+    {
+        "name": "用户推荐功能",
+        "options": [
+            { "key": "手工热门推荐", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step6_1.md" },
+            { "key": "大数据自动推荐", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step6_2.md" }
+        ]
+    },
+    {
+        "name": "内容订阅平台",
+        "options": [
+            { "key": "简单简单订阅", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step7_1.md" },
+            { "key": "精美邮件模板", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step7_2.md" }
+        ]
+    },
+    {
+        "name": "用户评论系统",
+        "options": [
+            { "key": "第三方评论系统", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step8_1.md" },
+            { "key": "独立评论系统", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step8_2.md" }
+        ]
+    },
+    {
+        "name": "网站设计风格",
+        "options": [
+            { "key": "简约型", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step9_1.md" },
+            { "key": "科技型", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step9_2.md" },
+            { "key": "商务型", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step9_3.md" },
+            { "key": "时尚型", "price": "15", "value": "3.7", "desc": "http://oeyky2aim.bkt.clouddn.com/md/step9_4.md" }
+        ]
+    }
+]
